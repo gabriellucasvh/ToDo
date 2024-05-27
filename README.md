@@ -1,8 +1,5 @@
-# React + Vite
+# ToDo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Feita para simplificar a organização de tarefas e aumentar a produtividade. A ToDo é uma lista de tarefas intuitiva e eficiente, projetada para ajudá-lo a manter-se no caminho certo em meio à agitação do dia a dia. Você pode facilmente criar, visualizar e priorizar suas tarefas, garantindo que nada seja esquecido. Além disso, a interface de usuário amigável permite que você marque tarefas concluídas e acompanhe seu progresso com facilidade. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![.](https://i.imgur.com/JyRbgDX.png)
